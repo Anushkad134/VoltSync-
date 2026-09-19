@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="./assets/energy-flow.svg" width="100%" alt="Animated 3D energy flow: Solar to Grid to Charger to EV"/>
+<img src="./energy-flow.svg" width="100%" alt="Animated 3D energy flow: Solar to Grid to Charger to EV"/>
 
 <br/>
 
