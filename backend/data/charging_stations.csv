@@ -1,0 +1,35 @@
+station_id,cpo_name,govt_private,state,district_city_village,location,latitude,longitude,charger_types_connectors_installed,charger_rating,connector_rating,no_of_connectors
+ST-MUM-001,Tata Power EZ Charge,Private,Maharashtra,Mumbai,"BKC G-Block Electric Hub, Bandra Kurla Complex",19.0657,72.8683,"CCS2, Type 2",150.0,150.0,6
+ST-MUM-002,Jio-bp pulse,Private,Maharashtra,Mumbai,"Phoenix Palladium EV Hub, Lower Parel",18.9954,72.8258,"CCS2, Type 2, GB/T",120.0,120.0,4
+ST-MUM-003,Statiq Hub,Private,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl Airport T2, Andheri East",19.0896,72.8656,"CCS2, Type 2",240.0,240.0,8
+ST-MUM-004,IOCL EV Power,Govt.,Maharashtra,Mumbai,"IOCL Auto Care, Western Express Highway, Goregaon",19.1646,72.8493,"CCS2, Type 2",60.0,60.0,4
+ST-MUM-005,ChargeZone,Private,Maharashtra,Mumbai,"Inorbit Mall Superfast Hub, Malad West",19.1726,72.8364,CCS2,150.0,150.0,4
+ST-MUM-006,Ather Grid,Private,Maharashtra,Mumbai,"Hiranandani Business Park, Powai",19.1197,72.9051,"Type 2, Ather Dot",22.0,22.0,4
+ST-MUM-007,Tata Power EZ Charge,Private,Maharashtra,Mumbai,"Seawoods Grand Central Mall, Navi Mumbai",19.0216,73.0184,"CCS2, Type 2",120.0,120.0,6
+ST-MUM-008,Zeon Charging,Private,Maharashtra,Mumbai,"Viviana Mall Gateway, Eastern Express Hwy, Thane",19.2087,72.9715,"CCS2, Type 2",150.0,150.0,4
+ST-DEL-001,Tata Power EZ Charge,Private,Delhi,NCR,"Inner Circle Plaza, Connaught Place, New Delhi",28.6315,77.2167,"CCS2, Type 2",150.0,150.0,6
+ST-DEL-002,Statiq Hub,Private,Delhi,NCR,"DLF Cyber City Phase 2, Gurugram",28.4952,77.0892,"CCS2, Type 2, CHAdeMO",240.0,240.0,8
+ST-DEL-003,Jio-bp pulse,Private,Delhi,NCR,"Worldmark Aerocity Mega Hub, IGI Airport",28.5505,77.1219,"CCS2, Type 2",180.0,180.0,6
+ST-DEL-004,HPCL EV Power,Govt.,Delhi,NCR,"HPCL Auto Station, Sector 62, Noida",28.6258,77.3644,"CCS2, Type 2",60.0,60.0,4
+ST-DEL-005,ChargeZone,Private,Delhi,NCR,"Select Citywalk EV Hub, Saket, South Delhi",28.5284,77.2193,CCS2,120.0,120.0,4
+ST-DEL-006,Zeon Charging,Private,Delhi,NCR,"Ambience Mall Express Hub, NH-48 Gurugram",28.5042,77.097,"CCS2, Type 2",150.0,150.0,6
+ST-DEL-007,IOCL EV Power,Govt.,Delhi,NCR,"IOCL COCO, Golf Course Road, Sector 54, Gurugram",28.4418,77.1065,"CCS2, Type 2",60.0,60.0,4
+ST-BLR-001,Tata Power EZ Charge,Private,Karnataka,Bengaluru,"100ft Road Electric Terminal, Indiranagar",12.9784,77.6408,"CCS2, Type 2",150.0,150.0,6
+ST-BLR-002,Jio-bp pulse,Private,Karnataka,Bengaluru,"Koramangala 5th Block EV Zone, 80ft Road",12.9352,77.6245,"CCS2, Type 2",120.0,120.0,4
+ST-BLR-003,Statiq Hub,Private,Karnataka,Bengaluru,"ITPL Main Gate Tech Hub, Whitefield",12.9855,77.7317,"CCS2, Type 2",240.0,240.0,8
+ST-BLR-004,ChargeZone,Private,Karnataka,Bengaluru,Electronic City Phase 1 Toll Plaza Hub,12.8399,77.677,CCS2,150.0,150.0,6
+ST-BLR-005,Ather Grid,Private,Karnataka,Bengaluru,"UB City Luxury Charging Lounge, MG Road",12.9716,77.5958,"Type 2, Ather Dot",22.0,22.0,4
+ST-BLR-006,Zeon Charging,Private,Karnataka,Bengaluru,"Orion Mall Mega Station, Rajajinagar",13.0112,77.555,"CCS2, Type 2",120.0,120.0,4
+ST-BLR-007,IOCL EV Power,Govt.,Karnataka,Bengaluru,"IOCL Outer Ring Road, Bellandur",12.926,77.6762,"CCS2, Type 2",60.0,60.0,4
+ST-AMD-001,Tata Power EZ Charge,Private,Gujarat,Ahmedabad,"SG Highway Corporate Park, Bodakdev",23.0416,72.5074,"CCS2, Type 2",150.0,150.0,6
+ST-AMD-002,Jio-bp pulse,Private,Gujarat,Ahmedabad,"Prahlad Nagar Garden EV Hub, Anandnagar",23.0118,72.5085,"CCS2, Type 2",120.0,120.0,4
+ST-AMD-003,Statiq Hub,Private,Gujarat,Ahmedabad,"GIFT City FinTech Zone, Gandhinagar",23.1598,72.6841,"CCS2, Type 2, GB/T",240.0,240.0,8
+ST-AMD-004,ChargeZone,Private,Gujarat,Ahmedabad,"Alpha One Mall Hub, Vastrapur",23.0401,72.5293,CCS2,120.0,120.0,4
+ST-AMD-005,IOCL EV Power,Govt.,Gujarat,Ahmedabad,"IOCL Auto Care, Ashram Road, Navrangpura",23.0338,72.5684,"CCS2, Type 2",60.0,60.0,4
+ST-HYD-001,Tata Power EZ Charge,Private,Telangana,Hyderabad,"Cyber Towers Tech Corridor, Hitec City",17.4504,78.3808,"CCS2, Type 2",150.0,150.0,6
+ST-HYD-002,Jio-bp pulse,Private,Telangana,Hyderabad,"Financial District Mega Hub, Gachibowli",17.4156,78.3427,"CCS2, Type 2",180.0,180.0,6
+ST-HYD-003,Statiq Hub,Private,Telangana,Hyderabad,"Inorbit Mall EV Zone, Madhapur",17.4348,78.3867,"CCS2, Type 2",120.0,120.0,4
+ST-HYD-004,Zeon Charging,Private,Telangana,Hyderabad,"Road No. 36 Luxury Hub, Jubilee Hills",17.4325,78.4071,"CCS2, Type 2",150.0,150.0,4
+ST-MAA-001,Tata Power EZ Charge,Private,Tamil Nadu,Chennai,"OMR IT Express Highway, Thoraipakkam",12.9352,80.2298,"CCS2, Type 2",150.0,150.0,6
+ST-MAA-002,Jio-bp pulse,Private,Tamil Nadu,Chennai,"Phoenix MarketCity Hub, Velachery",12.9918,80.217,"CCS2, Type 2",120.0,120.0,4
+ST-MAA-003,Statiq Hub,Private,Tamil Nadu,Chennai,"Olympia Tech Park, Guindy",13.0102,80.2038,"CCS2, Type 2",180.0,180.0,6
